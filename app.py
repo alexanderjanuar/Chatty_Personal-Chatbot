@@ -7,6 +7,7 @@ from nltk.stem import WordNetLemmatizer
 import pandas as pd
 import streamlit as st
 import time
+import nltk
 
 nltk.download('stopwords')
 
