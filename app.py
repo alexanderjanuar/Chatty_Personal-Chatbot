@@ -8,6 +8,8 @@ import pandas as pd
 import streamlit as st
 import time
 
+nltk.download('stopwords')
+
 def fetch_data():
     saved_directory = 'model'
     tokenizer = AutoTokenizer.from_pretrained(saved_directory)
