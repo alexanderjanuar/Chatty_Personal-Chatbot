@@ -10,6 +10,7 @@ import time
 import nltk
 
 nltk.download('stopwords')
+nltk.download('wordnet')
 
 def fetch_data():
     saved_directory = 'model'
