@@ -1,0 +1,1 @@
+ text = dfLabel.text[dfLabel['label'] == predictions][0]
