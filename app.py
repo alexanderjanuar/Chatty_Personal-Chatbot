@@ -1,4 +1,3 @@
-from flask import Flask,render_template,request
 from transformers import AutoTokenizer,TFAutoModelForSequenceClassification
 import tensorflow as tf
 import warnings
