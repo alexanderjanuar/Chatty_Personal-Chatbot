@@ -65,7 +65,6 @@ text = ''
 
 st.text("")
 st.text("")
-st.text("")
 
 
 with st.form("my_form"):
