@@ -30,6 +30,15 @@ cd Chatty_Personal-Chatbot
 streamlit run app.py
 ```
 
-##Usage
+## Usage
+![Alt Text](https://github.com/alexanderjanuar/Chatty_Personal-Chatbot/blob/main/assets/demo.gif)
+
+## Acknowledgments
+- https://huggingface.co/docs/transformers/training
+- https://docs.streamlit.io/
+
+*Any input on this work, which is currently under development, would be very appreciated.*
+
+
 
 
